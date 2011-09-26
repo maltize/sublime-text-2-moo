@@ -1,0 +1,6 @@
+Congratulation! You have installed awesome plugin for making moo!
+Documentation can be found on  https://github.com/maltize/sublime-text-2-moo.
+Also feel free to report issues/suggestions there.
+
+Have fun !
+Maciej Gajek

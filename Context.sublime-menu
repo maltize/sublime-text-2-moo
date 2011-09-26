@@ -1,0 +1,10 @@
+[
+  { "caption": "-" },
+  {
+    "caption": "Moo",
+    "children":
+      [
+        { "caption": "Make Moo", "command": "make_moo" }
+      ]
+  }
+]

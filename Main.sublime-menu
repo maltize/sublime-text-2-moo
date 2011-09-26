@@ -1,0 +1,15 @@
+[
+  {
+    "id": "tools",
+    "children":
+      [
+        {
+          "caption": "Moo",
+          "children":
+            [
+              { "caption": "Make Moo", "command": "make_moo" }
+            ]
+        }
+    ]
+  }
+]
